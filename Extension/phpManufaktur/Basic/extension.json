@@ -1,0 +1,30 @@
+{
+  "name": "Basic",
+  "title": "Basic functions and configuration of the kitFramework",
+  "namespace": "phpManufaktur\Basic",
+  "release": {
+    "number" : "0.10",
+    "date" : "2013-04-07"
+  },
+  "type": "core",
+  "description": {
+    "en": {
+      "short": "Basic function and configuration for the kitFramework",
+      "long": "Basic function and configuration for the kitFramework",
+      "url": "https://kit2.phpmanufaktur.de"
+    },
+  },
+  "require": {
+    "framework": {
+      "release": "0.17"
+    },
+  },
+  "license":"MIT License",
+  "download": {
+    "availability":"public",
+    "github":{
+      "organization":"phpManufaktur",
+      "repository":"kfBasic"
+    },
+  },
+}

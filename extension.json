@@ -1,0 +1,22 @@
+{
+  "name": "kitFramework Catalog",
+  "title": "Catalog of available extensions for the kitFramework",
+  "namespace": "phpManufaktur\kitFrameworkCatalog",
+  "release": {
+    "number" : "0.10",
+    "date" : "2013-04-07"
+  },
+  "type": "catalog",
+  "description": {
+    "en": {
+      "short": "Catalog for the kitFramework",
+      "long": "Catalog for the kitFramework",
+      "url": "https://kit2.phpmanufaktur.de"
+    },
+  },
+  "require": {
+    "framework": {
+      "release": "0.17"
+    },
+  }
+}

@@ -1,5 +1,6 @@
 {
-  "name": "Basic",
+  "name":"Basic",
+  "guid":"B021A24B-F763-4E25-AB78-5EE15D98C897",
   "category":"extension",
   "group":"phpManufaktur",
   "vendor":"phpManufaktur",

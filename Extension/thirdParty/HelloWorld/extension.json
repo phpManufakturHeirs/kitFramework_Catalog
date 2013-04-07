@@ -1,5 +1,6 @@
 {
-  "name": "Hello World",
+  "name":"Hello World",
+  "guid":"184B991C-362A-48C9-8290-2F027A9565AE",
   "category":"extension",
   "group":"thirdParty",
   "vendor":"phpManufaktur",

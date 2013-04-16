@@ -5,15 +5,11 @@
   "group":"phpManufaktur",
   "vendor":"phpManufaktur",
   "type":"framework",
-  "path":"\\extension\\phpmanufaktur\\phpManufaktur\\Basic",
+  "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Basic",
   "namespace": "phpManufaktur\\Basic",
-  "link":{
-    "start":"\/helloworld",
-    "about":"\/helloworld\/about"
-  },
   "release": {
-    "number" : "0.12",
-    "date" : "2013-04-07"
+    "number" : "0.15",
+    "date" : "2013-04-16"
   },
   "description": {
     "en": {

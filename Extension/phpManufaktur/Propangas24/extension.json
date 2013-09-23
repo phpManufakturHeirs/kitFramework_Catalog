@@ -4,12 +4,13 @@
   "category":"extension",
   "group":"phpManufaktur",
   "vendor":"phpManufaktur",
-  "type":"framework",
+  "type":"application",
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Propangas24",
   "namespace": "phpManufaktur\\Propangas24",
   "release": {
-    "number" : "0.11",
-    "date" : "2013-05-25"
+    "number" : "0.15",
+    "date" : "2013-09-23",
+    "status" : "beta"
   },
   "description": {
     "en": {
@@ -27,8 +28,23 @@
   },
   "require": {
     "framework": {
-      "release": "0.17"
+      "release": "0.26"
+    },
+    "extension":{
+        "phpManufaktur":{
+            "Basic":{
+                "release":"0.35"
+            },
+            "Contact":{
+                "release":"2.0.13"
+            }
+        }
     }
+  },
+  "setup": {
+      "install":"\/admin\/propangas24\/setup",
+      "update":"\/admin\/propangas24\/update",
+      "uninstall":"\/admin\/propangas24\/uninstall"
   },
   "license":"Commercial use",
   "download": {

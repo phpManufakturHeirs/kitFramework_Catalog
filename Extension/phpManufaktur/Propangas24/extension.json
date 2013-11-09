@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Propangas24",
   "namespace":"phpManufaktur\\Propangas24",
   "release":{
-    "number":"0.16",
-    "date":"2013-11-04",
+    "number":"0.17",
+    "date":"2013-11-09",
     "status":"beta"
   },
   "description": {
@@ -57,7 +57,10 @@
       "update":"\/admin\/propangas24\/update",
       "uninstall":"\/admin\/propangas24\/uninstall"
   },
-  "license":"Commercial use",
+  "license": {
+    "name":"MIT License",
+    "url":"https:\/\/github.com\/phpManufaktur\/kfPropangas24\/raw\/master\/LICENSE.md"
+  },
   "download": {
     "availability":"commercial use only",
     "agreement":"Service and support agreement"

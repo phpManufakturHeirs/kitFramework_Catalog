@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Propangas24",
   "namespace":"phpManufaktur\\Propangas24",
   "release":{
-    "number":"0.17",
-    "date":"2013-11-09",
+    "number":"0.18",
+    "date":"2013-11-15",
     "status":"beta"
   },
   "description": {
@@ -33,7 +33,7 @@
     "de":{
       "title":"Flüssiggas bestellen",
       "short":"Online Kalkulator um flüssiges Propangas zu bestellen.",
-      "long":"Online Kalkulator um flüssiges Propangas zu bestellen (propangas24.de).",
+      "long":"Gas- und Lieferpreise werden über die Postleitzahl des Tank Standort berechnet, die Pflege der Preise und Zuschläge erfolgt über den Import von Excel-Tabellen. Der Bestellvorgang erfolgt sehr einfach über die Auswahl der Postleitzahl, Behältergröße und gewünschte Bestellmenge. Vereinbaren Sie einen Vorführtermin um mehr über Propangas24 zu erfahren.",
       "url":"https:\/\/kit2.phpmanufaktur.de"
     }
   },

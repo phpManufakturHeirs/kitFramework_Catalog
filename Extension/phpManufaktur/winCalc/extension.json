@@ -19,7 +19,7 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/winCalc",
   "namespace":"phpManufaktur\\winCalc",
   "release":{
-    "number":"0.15",
+    "number":"0.16",
     "date":"2013-11-09",
     "status":"beta"
   },
@@ -29,6 +29,12 @@
       "short":"Interactive online Calculator for Windows and Doors",
       "long":"Define Windows and Doors with different materials, profiles, colors, glass, fittings, minimum and maximum sizes and prices. The online calculator for the frontend is easy to use and guide the customer through the calculation and ordering process.",
       "url":"https:\/\/phpmanufaktur.de"
+    },
+    "de":{
+        "title":"Fenster und Türen online bestellen",
+        "short":"Definition von Fenstern und Türen aus unterschiedlichen Materialien in beliebigen Größen und Ausführungen, interaktives Bestellprogramm",
+        "long":"Definieren Sie Fenster und Türen in beliebigen Größen, mit unterschiedlichen Materialien, verschiedenen Ausführungen sowie Ergänzungen und Zubehör. Ihre Kunden bestellen mit Hilfe eines sehr einfachen interaktiven Dialog die gewünschten Fenster und Türen. Diese Anwendung lässt sich ganz genau auf Ihren Bedarf abstimmen und ergänzen - vereinbaren Sie einen Vorführtermin.",
+        "url":"https:\/\/phpmanufaktur.de"
     }
   },
   "require":{

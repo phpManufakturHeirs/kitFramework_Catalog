@@ -19,9 +19,9 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Propangas24",
   "namespace":"phpManufaktur\\Propangas24",
   "release":{
-    "number":"0.19",
-    "date":"2013-12-17",
-    "status":"stable"
+    "number":"0.20",
+    "date":"2014-02-11",
+    "status":"beta"
   },
   "description": {
     "en": {

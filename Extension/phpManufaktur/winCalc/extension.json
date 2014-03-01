@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/winCalc",
   "namespace":"phpManufaktur\\winCalc",
   "release":{
-    "number":"0.16",
-    "date":"2013-11-09",
+    "number":"0.17",
+    "date":"2014-03-01",
     "status":"beta"
   },
   "description":{
@@ -39,21 +39,21 @@
   },
   "require":{
     "framework":{
-      "release":"0.26"
+      "release":"0.27"
     },
     "extension":{
         "phpmanufaktur":{
             "Basic":{
-                "release":"0.35"
+                "release":"0.83"
             },
             "Contact":{
-                "release":"2.0.13"
+                "release":"2.0.33"
             },
             "CKEditor":{
-                "release":"0.15"
+                "release":"0.23"
             },
             "MediaBrowser":{
-                "release":"0.19"
+                "release":"0.27"
             }
         }
     }

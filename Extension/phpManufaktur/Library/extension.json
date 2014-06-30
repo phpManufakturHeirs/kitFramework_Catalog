@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
   "namespace":"phpManufaktur\\library",
   "release":{
-    "number":"0.31",
-    "date":"2014-06-13",
+    "number":"0.32",
+    "date":"2014-06-30",
     "status":"release"
   },
   "library":{
@@ -65,6 +65,14 @@
           "url":"https:\/\/github.com\/michelf\/php-markdown",
           "releases":[
               "1.4.0"
+          ]
+      },
+      "phpexcel":{
+          "name":"PHPExcel",
+          "usage":"PHPExcel - OpenXML - Read, Write and Create spreadsheet documents in PHP",
+          "url":"https://github.com/PHPOffice/PHPExcel",
+          "releases":[
+              "1.8.0"
           ]
       }
     },

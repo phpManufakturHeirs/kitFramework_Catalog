@@ -1,0 +1,81 @@
+{
+  "name":"DogPaw",
+  "guid":"DC000C64-B7F2-4001-AD65-8168CFCDE26B",
+  "category":"extension",
+  "group":"phpManufaktur",
+  "vendor":{
+      "name":"phpManufaktur",
+      "url":"https:\/\/phpmanufaktur.de",
+      "mail":"team@phpmanufaktur.de",
+      "address":{
+          "street":"Stockholmer Straße 31",
+          "zip":"13359",
+          "city":"Berlin",
+          "country":"Germany"
+      },
+      "phone":"+49 30 68813647"
+  },
+  "type":"application",
+  "path":"\/extension\/phpmanufaktur\/phpManufaktur\/DogPaw",
+  "namespace":"phpManufaktur\\DogPaw",
+  "link":{
+    "about":"\/dogpaw\/about"
+  },
+  "release":{
+    "number":"0.11",
+    "date":"2014-07-16",
+    "status":"beta"
+  },
+  "description":{
+    "en":{
+      "title":"DogPaw",
+      "short":"DogPaw",
+      "long":"DogPaw",
+      "url":"https:\/\/kit2.phpmanufaktur.de"
+    }
+  },
+  "require":{
+    "framework":{
+      "release":"0.27"
+    },
+    "extension":{
+        "phpmanufaktur":{
+            "Basic":{
+                "release":"0.98"
+            },
+            "Library":{
+                "release":"0.32"
+            },
+            "CKEditor":{
+                "release":"0.27"
+            },
+            "CommandCollection":{
+                "release":"0.36"
+            },
+            "Contact":{
+                "release":"2.0.38"
+            },
+            "MediaBrowser":{
+                "release":"0.29"
+            }
+        }
+    }
+  },
+  "setup": {
+      "install":"\/admin\/dogpaw\/setup",
+      "update":"\/admin\/dogpaw\/update",
+      "uninstall":"\/admin\/dogpaw\/uninstall",
+      "icon_path":{
+        "BlackCat":"\/extension\/phpmanufaktur\/phpManufaktur\/DogPaw\/Data\/Setup\/Icon\/icon.png",
+        "WebsiteBaker":"\/extension\/phpmanufaktur\/phpManufaktur\/DogPaw\/Data\/Setup\/Icon\/tool_icon.png"
+      }
+  },
+  "license": {
+    "name":"MIT License",
+    "url":"https:\/\/github.com\/phpManufaktur\/kfDogPaw\/raw\/master\/LICENSE.md"
+  },
+  "download": {
+    "availability":"commercial use only",
+    "agreement":"Service and support agreement"
+  }
+}

@@ -22,22 +22,23 @@
     "about":"\/flexcontent\/about"
   },
   "release":{
-    "number":"0.42",
-    "date":"2014-09-08",
-    "status":"beta"
+    "number":"0.43",
+    "date":"2014-09-14",
+    "status":"beta",
+    "changelog":"https:\/\/github.com\/phpManufaktur\/kfFlexContent\/blob\/master\/CHANGELOG.md"
   },
   "description":{
     "en":{
       "title":"Flexible Content Management",
       "short":"Manage different contents flexibel with the kitFramework",
       "long":"Manage different contents flexibel with the kitFramework",
-      "url":"https:\/\/kit2.phpmanufaktur.de"
+      "url":"https:\/\/kit2.phpmanufaktur.de\/flexContent"
     },
     "de":{
         "title":"Flexible Verwaltung von Inhalten",
         "short":"Verwalten und organisieren sie beliebige Inhalte mit dem kitFramework",
         "long":"Verwalten und organisieren sie beliebige Inhalte mit dem kitFramework. Kategorien und #Tags ermöglichen eine sehr flexible Präsentation und Veröffentlichung von Inhalten - flexContent ist eine Mischung aus herkömmlichen WYSIWYG Seiten, Blog Artikeln, einem Archiv sowie beliebig vielen RSS Feedern für die Interaktion mit den sozialen Netzen.",
-        "url":"https:\/\/kit2.phpmanufaktur.de"
+        "url":"https:\/\/kit2.phpmanufaktur.de\/flexContent"
     }
   },
   "require":{
@@ -47,16 +48,16 @@
     "extension":{
         "phpmanufaktur":{
             "Basic":{
-                "release":"1.0.10"
+                "release":"1.0.12"
             },
             "Library":{
                 "release":"0.37"
             },
             "CKEditor":{
-                "release":"0.28"
+                "release":"0.30"
             },
             "CommandCollection":{
-                "release":"0.39"
+                "release":"0.40"
             },
             "MediaBrowser":{
                 "release":"0.30"

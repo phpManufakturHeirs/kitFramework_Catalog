@@ -19,9 +19,10 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
   "namespace":"phpManufaktur\\library",
   "release":{
-    "number":"0.37",
-    "date":"2014-09-02",
-    "status":"release"
+    "number":"0.38",
+    "date":"2014-09-14",
+    "status":"release",
+    "changelog":"https:\/\/github.com\/phpManufaktur\/kfLibrary\/blob\/master\/CHANGELOG.md"
   },
   "library":{
     "extension":{
@@ -276,12 +277,13 @@
       "title":"Library for the kitFramework",
       "short":"Different libraries for the usage with the kitFramework",
       "long":"Libraries for the usage with the kitFramework like Bootstrap 2 & 3, Font Awesome 3 & 4, different jQuery versions and jQuery extensions and also PHP Extensions.",
-      "url":"https:\/\/kit2.phpmanufaktur.de"
+      "url":"https:\/\/kit2.phpmanufaktur.de\/Library"
     },
     "de":{
       "title":"Library for the kitFramework",
       "short":"Verschiedene Bibliotheken für die Nutzung im kitFramework",
-      "long":"Bibliotheken für die Nutzung mit dem kitFramework, wie Bootstrap 2 & 3, Font Awesome 3 & 4, verschiedene jQuery Versionen sowie jQuery Erweiterungen und PHP Erweiterungen."
+      "long":"Bibliotheken für die Nutzung mit dem kitFramework, wie Bootstrap 2 & 3, Font Awesome 3 & 4, verschiedene jQuery Versionen sowie jQuery Erweiterungen und PHP Erweiterungen.",
+      "url":"https:\/\/kit2.phpmanufaktur.de\/Library"
     }
   },
   "require":{
@@ -291,7 +293,7 @@
     "extension":{
         "phpManufaktur":{
             "Basic":{
-                "release":"1.0.9"
+                "release":"1.0.12"
             }
         }
     }

@@ -19,22 +19,23 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/winCalc",
   "namespace":"phpManufaktur\\winCalc",
   "release":{
-    "number":"0.17",
-    "date":"2014-03-01",
-    "status":"beta"
+    "number":"0.18",
+    "date":"2014-09-14",
+    "status":"beta",
+    "changelog":"https:\/\/github.com\/phpManufaktur\/kfWinCalc\/blob\/master\/CHANGELOG.md"
   },
   "description":{
     "en":{
       "title":"Online Calculator for Windows and Doors",
       "short":"Interactive online Calculator for Windows and Doors",
       "long":"Define Windows and Doors with different materials, profiles, colors, glass, fittings, minimum and maximum sizes and prices. The online calculator for the frontend is easy to use and guide the customer through the calculation and ordering process.",
-      "url":"https:\/\/phpmanufaktur.de"
+      "url":"https:\/\/kit2.phpmanufaktur.de\/winCalc"
     },
     "de":{
         "title":"Fenster und Türen online bestellen",
         "short":"Definition von Fenstern und Türen aus unterschiedlichen Materialien in beliebigen Größen und Ausführungen, interaktives Bestellprogramm",
         "long":"Definieren Sie Fenster und Türen in beliebigen Größen, mit unterschiedlichen Materialien, verschiedenen Ausführungen sowie Ergänzungen und Zubehör. Ihre Kunden bestellen mit Hilfe eines sehr einfachen interaktiven Dialog die gewünschten Fenster und Türen. Diese Anwendung lässt sich ganz genau auf Ihren Bedarf abstimmen und ergänzen - vereinbaren Sie einen Vorführtermin.",
-        "url":"https:\/\/phpmanufaktur.de"
+        "url":"https:\/\/kit2.phpmanufaktur.de\/winCalc"
     }
   },
   "require":{
@@ -68,7 +69,7 @@
     "url":"https:\/\/github.com\/phpManufaktur\/kfWinCalc\/raw\/master\/LICENSE.md"
   },
   "download": {
-    "availability":"commercial use only",
+    "availability":"Commercial use only",
     "agreement":"Service and support agreement"
   }
 }

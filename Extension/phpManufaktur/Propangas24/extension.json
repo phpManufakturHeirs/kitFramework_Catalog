@@ -19,22 +19,23 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Propangas24",
   "namespace":"phpManufaktur\\Propangas24",
   "release":{
-    "number":"0.20",
-    "date":"2014-02-11",
-    "status":"beta"
+    "number":"0.21",
+    "date":"2014-09-14",
+    "status":"beta",
+    "changelog":"https:\/\/github.com\/phpManufaktur\/kfPropangas24\/blob\/master\/CHANGELOG.md"
   },
   "description": {
     "en": {
       "title":"Order liquefied petroleum gas",
       "short":"Online calculator to order liquefied petroleum gas",
       "long":"Online calculator to order liquefied petroleum gas (propangas24.de)",
-      "url":"https:\/\/kit2.phpmanufaktur.de"
+      "url":"https:\/\/kit2.phpmanufaktur.de\/Propangas24"
     },
     "de":{
       "title":"Flüssiggas bestellen",
       "short":"Online Kalkulator um flüssiges Propangas zu bestellen.",
       "long":"Gas- und Lieferpreise werden über die Postleitzahl des Tank Standort berechnet, die Pflege der Preise und Zuschläge erfolgt über den Import von Excel-Tabellen. Der Bestellvorgang erfolgt sehr einfach über die Auswahl der Postleitzahl, Behältergröße und gewünschte Bestellmenge. Vereinbaren Sie einen Vorführtermin um mehr über Propangas24 zu erfahren.",
-      "url":"https:\/\/kit2.phpmanufaktur.de"
+      "url":"https:\/\/kit2.phpmanufaktur.de\/Propangas24"
     }
   },
   "require":{
@@ -62,7 +63,7 @@
     "url":"https:\/\/github.com\/phpManufaktur\/kfPropangas24\/raw\/master\/LICENSE.md"
   },
   "download": {
-    "availability":"commercial use only",
+    "availability":"Commercial use only",
     "agreement":"Service and support agreement"
   }
 }

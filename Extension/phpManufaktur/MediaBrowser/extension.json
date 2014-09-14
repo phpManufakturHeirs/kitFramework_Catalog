@@ -19,22 +19,23 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/MediaBrowser",
   "namespace":"phpManufaktur\\MediaBrowser",
   "release":{
-    "number":"0.31",
-    "date":"2014-09-11",
-    "status":"release"
+    "number":"0.32",
+    "date":"2014-09-14",
+    "status":"release",
+    "changelog":"https:\/\/github.com\/phpManufaktur\/kfMediaBrowser\/blob\/master\/CHANGELOG.md"
   },
   "description": {
     "en":{
       "title":"MediaBrowser for the kitFramework",
       "short":"MediaBrowser for the kitFramework",
       "long":"MediaBrowser for the kitFramework ",
-      "url":"https:\/\/kit2.phpmanufaktur.de"
+      "url":"https:\/\/kit2.phpmanufaktur.de\/MediaBrowser"
     },
     "de":{
       "title":"Medien Browser für das kitFramework",
       "short":"MediaBrowser for the kitFramework",
       "long":"Der MediaBrowser verbindet den CKEditor mit den Medienverzeichnissen des CMS und des kitFramework und kann sehr einfach auch in Ihren eigenen Anwendungen sowie Erweiterungen verwendet werden.",
-      "url":"https:\/\/kit2.phpmanufaktur.de"
+      "url":"https:\/\/kit2.phpmanufaktur.de\/MediaBrowser"
     }
   },
   "require":{
@@ -44,7 +45,7 @@
     "extension":{
         "phpManufaktur":{
             "Basic":{
-                "release":"1.0.10"
+                "release":"1.0.12"
             }
         }
     }

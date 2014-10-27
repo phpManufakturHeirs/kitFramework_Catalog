@@ -22,10 +22,10 @@
     "about":"\/minishop\/about"
   },
   "release":{
-    "number":"0.15",
-    "date":"2014-09-18",
+    "number":"0.16",
+    "date":"2014-10-27",
     "status":"beta",
-    "changelog":"https:\/\/github.com\/phpManufaktur\/kfMiniShop\/blob\/master\/CHANGELOG.md"
+    "changelog":"https:\/\/github.com\/webbird\/kfMiniShop\/blob\/master\/CHANGELOG.md"
   },
   "description":{
     "en":{
@@ -88,6 +88,6 @@
       "organization":"phpManufaktur",
       "repository":"kfMiniShop"
     },
-    "url":"https:\/\/github.com\/phpManufaktur\/kfMiniShop"
+    "url":"https:\/\/github.com\/webbird\/kfMiniShop"
   }
 }

@@ -22,8 +22,8 @@
     "about":"\/minishop\/about"
   },
   "release":{
-    "number":"0.16",
-    "date":"2014-10-27",
+    "number":"0.17",
+    "date":"2014-10-28",
     "status":"beta",
     "changelog":"https:\/\/github.com\/webbird\/kfMiniShop\/blob\/master\/CHANGELOG.md"
   },

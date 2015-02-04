@@ -25,7 +25,7 @@
     "number":"2.0.45",
     "date":"2014-09-14",
     "status":"beta",
-    "changelog":"https:\/\/github.com\/phpManufaktur\/kfEvent\/blob\/master\/CHANGELOG.md"
+    "changelog":"https:\/\/github.com\/phpManufakturHeirs\/kfEvent\/blob\/master\/CHANGELOG.md"
   },
   "description":{
     "en":{
@@ -79,20 +79,20 @@
   },
   "license": {
     "name":"MIT License",
-    "url":"https:\/\/github.com\/phpManufaktur\/kfEvent\/raw\/master\/LICENSE.md"
+    "url":"https:\/\/github.com\/phpManufakturHeirs\/kfEvent\/raw\/master\/LICENSE.md"
   },
   "download": {
     "availability":"public",
     "agreement":"free",
     "github":{
-      "organization":"phpManufaktur",
+      "organization":"phpManufakturHeirs",
       "repository":"kfEvent"
     },
-    "url":"https:\/\/github.com\/phpManufaktur\/kfEvent"
+    "url":"https:\/\/github.com\/phpManufakturHeirs\/kfEvent"
   },
   "wiki": {
     "en": {
-      "url":"https:\/\/github.com/phpManufaktur\/kfEvent\/wiki"
+      "url":"https:\/\/github.com/phpManufakturHeirs\/kfEvent\/wiki"
     }
   },
   "firststeps": {
@@ -102,7 +102,7 @@
   },
   "issues": {
     "en": {
-      "url":"https:\/\/github.com/phpManufaktur\/kfEvent\/issues"
+      "url":"https:\/\/github.com/phpManufakturHeirs\/kfEvent\/issues"
     }
   },
   "support": {

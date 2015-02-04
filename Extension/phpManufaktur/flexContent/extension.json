@@ -25,7 +25,7 @@
     "number":"0.45",
     "date":"2014-09-23",
     "status":"beta",
-    "changelog":"https:\/\/github.com\/phpManufaktur\/kfFlexContent\/blob\/master\/CHANGELOG.md"
+    "changelog":"https:\/\/github.com\/phpManufakturHeirs\/kfFlexContent\/blob\/master\/CHANGELOG.md"
   },
   "description":{
     "en":{
@@ -76,7 +76,7 @@
   },
   "license": {
     "name":"MIT License",
-    "url":"https:\/\/github.com\/phpManufaktur\/kfFlexContent\/raw\/master\/LICENSE.md"
+    "url":"https:\/\/github.com\/phpManufakturHeirs\/kfFlexContent\/raw\/master\/LICENSE.md"
   },
   "download":{
     "availability":"public",
@@ -85,11 +85,11 @@
       "organization":"phpManufaktur",
       "repository":"kfFlexContent"
     },
-    "url":"https:\/\/github.com\/phpManufaktur\/kfFlexContent"
+    "url":"https:\/\/github.com\/phpManufakturHeirs\/kfFlexContent"
   },
   "wiki": {
     "en": {
-      "url":"https:\/\/github.com/phpManufaktur\/kfFlexContent\/wiki"
+      "url":"https:\/\/github.com/phpManufakturHeirs\/kfFlexContent\/wiki"
     }
   },
   "firststeps": {
@@ -99,7 +99,7 @@
   },
   "issues": {
     "en": {
-      "url":"https:\/\/github.com/phpManufaktur\/kfFlexContent\/issues"
+      "url":"https:\/\/github.com/phpManufakturHeirs\/kfFlexContent\/issues"
     }
   },
   "support": {

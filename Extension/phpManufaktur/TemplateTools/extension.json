@@ -5,22 +5,22 @@
   "group":"phpManufaktur",
   "vendor":{
       "name":"phpManufaktur",
-      "url":"https:\/\/phpmanufaktur.de",
-      "mail":"team@phpmanufaktur.de",
+      "url":"https:\/\/phpmanufaktur.info",
+      "mail":"team@phpmanufaktur.info",
       "address":{
-          "street":"Stockholmer Straße 31",
-          "zip":"13359",
+          "street":"Reginhardstraße 34",
+          "zip":"13409",
           "city":"Berlin",
           "country":"Germany"
       },
-      "phone":"+49 30 68813647"
+      "phone":"+49 30 499070-84"
   },
   "type":"framework",
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/TemplateTools",
   "namespace":"phpManufaktur\\TemplateTools",
   "release":{
-    "number":"0.27",
-    "date":"2014-09-19",
+    "number":"0.28",
+    "date":"2015-06-18",
     "status":"beta",
     "changelog":"https:\/\/github.com\/phpManufakturHeirs\/kfTemplateTools\/blob\/master\/CHANGELOG.md"
   },
@@ -29,13 +29,13 @@
       "title":"Template tools for your CMS",
       "short":"Template tools for WebsiteBaker, LEPTON CMS and BlackCat CMS",
       "long":"Template tools for WebsiteBaker, LEPTON CMS and BlackCat CMS",
-      "url":"https:\/\/kit2.phpmanufaktur.de\/TemplateTools"
+      "url":"https:\/\/kit2.phpmanufaktur.info\/TemplateTools"
     },
     "de":{
       "title":"Template Werkzeuge für ihr CMS",
       "short":"Template Werkzeuge für WebsiteBaker, LEPTON CMS und BlackCat CMS",
       "long":"Template Werkzeuge für WebsiteBaker, LEPTON CMS und BlackCat CMS",
-      "url":"https:\/\/kit2.phpmanufaktur.de\/TemplateTools"
+      "url":"https:\/\/kit2.phpmanufaktur.info\/TemplateTools"
     }
   },
   "require":{
@@ -43,7 +43,7 @@
       "release":"0.27"
     },
     "Basic": {
-        "release":"1.0.14"
+        "release":"1.0.18"
     },
     "Library":{
         "release":"0.38"

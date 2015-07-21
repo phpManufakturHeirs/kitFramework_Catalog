@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/CommandCollection",
   "namespace":"phpManufaktur\\CommandCollection",
   "release":{
-    "number":"0.41",
-    "date":"2015-07-08",
+    "number":"0.42",
+    "date":"2015-07-21",
     "status":"beta",
     "changelog":"https:\/\/github.com\/phpManufakturHeirs\/kfCommandCollection\/blob\/master\/CHANGELOG.md"
   },
@@ -29,13 +29,13 @@
       "title":"Collection of kitCommands for the kitFramework",
       "short":"A collection of usefull kitCommands for the kitFramework",
       "long":"A collection of usefull kitCommands for the kitFramework and for the parent Content Management System",
-      "url":"http:\/\/phpmanufaktur.info/CommandCollection"
+      "url":"http:\/\/www.phpmanufaktur.info\/de\/kitframework\/erweiterungen\/commandcollection.php"
     },
     "de":{
       "title":"Sammlung von kitCommands für das kitFramework",
       "short":"Eine Sammlung von kitCommands für das kitFramework",
       "long":"Eine Sammlung von kitCommands für die übergeordneten Content Management Systeme. Das Paket enthält unter anderem: Comments (Kommentarfunktion für das CMS), ExcelRead (Excel Tabellen einlesen und formatiert ausgeben), LoremIpsum (Lorem Ipsum Generator), RAL (RAL Farbtabellen verwenden) und Rating (Bewertungsfunktion für Artikel und Anwendungen)",
-      "url":"http:\/\/phpmanufaktur.info/CommandCollection"
+      "url":"http:\/\/www.phpmanufaktur.info\/de\/kitframework\/erweiterungen\/commandcollection.php"
     }
   },
   "require":{

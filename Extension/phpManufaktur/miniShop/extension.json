@@ -25,7 +25,7 @@
     "number":"0.17",
     "date":"2014-10-28",
     "status":"beta",
-    "changelog":"https:\/\/github.com\/webbird\/kfMiniShop\/blob\/master\/CHANGELOG.md"
+    "changelog":"https:\/\/github.com\/phpManufakturHeirs\/kfMiniShop\/blob\/master\/CHANGELOG.md"
   },
   "description":{
     "en":{
@@ -79,15 +79,15 @@
   },
   "license": {
     "name":"MIT License",
-    "url":"https:\/\/github.com\/phpManufaktur\/kfMiniShop\/raw\/master\/LICENSE.md"
+    "url":"https:\/\/github.com\/phpManufakturHeirs\/kfMiniShop\/raw\/master\/LICENSE.md"
   },
   "download":{
     "availability":"public",
     "agreement":"free",
     "github":{
-      "organization":"webbird",
+      "organization":"phpManufakturHeirs",
       "repository":"kfMiniShop"
     },
-    "url":"https:\/\/github.com\/webbird\/kfMiniShop"
+    "url":"https:\/\/github.com\/phpManufakturHeirs\/kfMiniShop"
   }
 }

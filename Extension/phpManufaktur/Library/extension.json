@@ -22,7 +22,7 @@
     "number":"0.39",
     "date":"2014-09-20",
     "status":"release",
-    "changelog":"https:\/\/github.com\/phpManufaktur\/kfLibrary\/blob\/master\/CHANGELOG.md"
+    "changelog":"https:\/\/github.com\/phpManufakturHeirs\/kfLibrary\/blob\/master\/CHANGELOG.md"
   },
   "library":{
     "extension":{
@@ -313,15 +313,15 @@
   },
   "license": {
     "name":"MIT License",
-    "url":"https:\/\/github.com\/phpManufaktur\/kfLibrary\/raw\/master\/LICENSE.md"
+    "url":"https:\/\/github.com\/phpManufakturHeirs\/kfLibrary\/raw\/master\/LICENSE.md"
   },
   "download": {
     "availability":"public",
     "agreement":"free",
     "github":{
-      "organization":"phpManufaktur",
+      "organization":"phpManufakturHeirs",
       "repository":"kfLibrary"
     },
-    "url":"https:\/\/github.com\/phpManufaktur\/kfLibrary"
+    "url":"https:\/\/github.com\/phpManufakturHeirs\/kfLibrary"
   }
 }

@@ -67,15 +67,15 @@
   },
   "license": {
     "name":"MIT License",
-    "url":"https:\/\/github.com\/phpManufaktur\/kfContact\/raw\/master\/LICENSE.md"
+    "url":"https:\/\/github.com\/phpManufakturHeirs\/kfContact\/raw\/master\/LICENSE.md"
   },
   "download":{
     "availability":"public",
     "agreement":"free",
     "github":{
-      "organization":"phpManufaktur",
+      "organization":"phpManufakturHeirs",
       "repository":"kfContact"
     },
-    "url":"https:\/\/github.com\/phpManufaktur\/kfContact"
+    "url":"https:\/\/github.com\/phpManufakturHeirs\/kfContact"
   }
 }

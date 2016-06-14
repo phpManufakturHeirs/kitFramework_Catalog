@@ -19,7 +19,7 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Basic",
   "namespace":"phpManufaktur\\Basic",
   "release":{
-    "number":"1.0.20",
+    "number":"1.0.21",
     "date":"2016-06-14",
     "status":"release",
     "changelog":"https:\/\/github.com\/phpManufakturHeirs\/kfBasic\/blob\/master\/CHANGELOG.md"
